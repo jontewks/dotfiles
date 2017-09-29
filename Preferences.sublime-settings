@@ -1,0 +1,15 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"Six",
+		"Vintage",
+		"Vintageous"
+	],
+	"rulers":
+	[
+		100
+	],
+  "tab_size": 2,
+}
