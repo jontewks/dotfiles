@@ -1,15 +1,11 @@
 {
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"font_size": 14,
-	"ignored_packages":
-	[
-		"Six",
-		"Vintage",
-		"Vintageous"
-	],
-	"rulers":
-	[
-		100
-	],
-  "tab_size": 2,
+	"ignored_packages": ["Six", "Vintage", "Vintageous"],
+	"rulers": [100],
+	"tab_size": 2,
+	"ensure_newline_at_eof_on_save": true,
+	"folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", "node_modules"],
+	"scroll_past_end": true,
+	"trim_trailing_white_space_on_save": true,
 }
