@@ -1,7 +1,8 @@
 {
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
-	"file_exclude_patterns": [
+	"file_exclude_patterns":
+	[
 		"*.pyc",
 		"*.pyo",
 		"*.exe",
@@ -25,25 +26,32 @@
 		"*.min.js",
 		"*.map"
 	],
-	"folder_exclude_patterns": [
+	"folder_exclude_patterns":
+	[
 		".svn",
 		".git",
 		".hg",
 		"CVS",
-		"node_modules",
 		".happypack",
 		".sass-cache",
-		"dist"
+		"dist",
+		"bower_components",
+		"node_modules"
 	],
 	"font_size": 14,
-	"ignored_packages": [
+	"ignored_packages":
+	[
 		"Six",
 		"Vintage",
 		"Vintageous"
 	],
-	"rulers": [100],
+	"rulers":
+	[
+		100
+	],
 	"scroll_past_end": true,
 	"tab_size": 2,
+	"theme": "Default.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"vintageous_use_ctrl_keys": true
 }

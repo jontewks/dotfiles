@@ -2,6 +2,7 @@
   "cmd": ["/usr/local/bin/node", "$file"],
   "selector": "source.js",
   "env": {
+  	"NODE_ENV": "localhost",
 		"NODE_CONFIG_DIR": "/Users/jon/Documents/BuildingConnected/BC/config"
   }
 }
