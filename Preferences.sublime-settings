@@ -36,7 +36,17 @@
 		".sass-cache",
 		"dist",
 		"bower_components",
-		"node_modules"
+		"BC/node_modules",
+		"client/node_modules",
+		"render/node_modules",
+		"www/node_modules",
+		"flow-typed",
+		".cache",
+		"public"
+	],
+	"font_options":
+	[
+		"no_round"
 	],
 	"font_size": 14,
 	"ignored_packages":
