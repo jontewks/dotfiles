@@ -1,5 +1,5 @@
 {
-  "cmd": ["flow-node", "$file"],
+  "cmd": ["node", "$file"],
   "selector": "source.js",
   "env": {
   	"NODE_ENV": "localhost",
